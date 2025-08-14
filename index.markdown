@@ -180,7 +180,7 @@ layout: home
     <img src="./img/discussion/bad_examples.png"  style="width:100%" class = "result_pic">
     </section>
     <section class = "conclusion">
-    <h1><b>Conlusion</b></h1>
+    <h1><b>Conclusion</b></h1>
         <p>
             &emsp; &emsp; Improving the model’s explainability is a crucial step to understand AI. We trained CNN models and visualized the heatmaps for input images using Grad-CAM and Integrated-Gradient algorithms. We compared the fair race model and the biased race model's heatmaps and showed that the fair race model could capture more salient features through the heatmaps visualization. This project demonstrates the importance of having an unbiased dataset beforehand and possible unintentional caveat to developing a biased model if the dataset is not ideal. 
         </p>
